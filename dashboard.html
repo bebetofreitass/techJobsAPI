@@ -1,0 +1,32 @@
+<!-- dashboard.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard - TechJobs</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body class="container py-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1>Área do Usuário</h1>
+        <a href="index.html" class="btn btn-secondary">Voltar ao Início</a>
+    </div>
+    <hr />
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h3>Minhas Vagas</h3>
+    </div>
+    <div id="job-list" class="row mb-5"></div>
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h3>Candidatos Disponíveis</h3>
+        <div>
+            <button class="btn btn-primary me-5 my-3" onclick="toggleCandidates()">Ver/Ocultar Candidatos</button>
+            <button class="btn btn-success" onclick="createUser()">Novo Candidato</button>
+        </div>
+    </div>
+    <div id="candidates" class="row" style="display: none;"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

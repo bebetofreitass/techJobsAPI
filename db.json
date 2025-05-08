@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Carlos Silva",
+      "email": "carlos@email.com"
+    },
+    {
+      "id": "2",
+      "name": "Marina Costa",
+      "email": "marina@email.com"
+    },
+    {
+      "id": "3",
+      "name": "Lucas Pereira",
+      "email": "lucas@email.com"
+    },
+    {
+      "id": "4",
+      "name": "Ana Oliveira",
+      "email": "ana@email.com"
+    },
+    {
+      "id": "5",
+      "name": "Pedro Santos",
+      "email": "pedro@email.com"
+    },
+    {
+      "id": "6",
+      "name": "Juliana Almeida",
+      "email": "juliana@email.com"
+    },
+    {
+      "id": "7",
+      "name": "Ricardo Lima",
+      "email": "ricardo@email.com"
+    },
+    {
+      "id": "8",
+      "name": "Fernanda Rocha",
+      "email": "fernanda@email.com"
+    },
+    {
+      "id": "9",
+      "name": "Gabriel Martins",
+      "email": "gabriel@email.com"
+    },
+    {
+      "id": "10",
+      "name": "Sofia Ferreira",
+      "email": "sofia@email.com"
+    },
+    {
+      "id": "106f",
+      "name": "Carlos Alberto",
+      "email": "carlos@email.com"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "TechCorp",
+      "location": "Remoto"
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer",
+      "company": "DevHouse",
+      "location": "São Paulo"
+    },
+    {
+      "id": "3",
+      "title": "Data Scientist",
+      "company": "DataSolutions",
+      "location": "Fortaleza"
+    },
+    {
+      "id": "4",
+      "title": "UX/UI Designer",
+      "company": "DesignStudio",
+      "location": "Rio de Janeiro"
+    },
+    {
+      "id": "5",
+      "title": "Product Manager",
+      "company": "Innovatech",
+      "location": "Curitiba"
+    },
+    {
+      "id": "6",
+      "title": "DevOps Engineer",
+      "company": "CloudServices",
+      "location": "Fortaleza"
+    },
+    {
+      "id": "7",
+      "title": "Mobile Developer",
+      "company": "AppCreators",
+      "location": "Porto Alegre"
+    },
+    {
+      "id": "8",
+      "title": "Full Stack Developer",
+      "company": "WebSolutions",
+      "location": "Remoto"
+    },
+    {
+      "id": "9",
+      "title": "Data Analyst",
+      "company": "AnalyticsPro",
+      "location": "Manaus"
+    },
+    {
+      "id": "10",
+      "title": "System Administrator",
+      "company": "ITSupport",
+      "location": "Fortaleza"
+    }
+  ]
+}
